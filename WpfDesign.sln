@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 16.0.28714.193
 MinimumVisualStudioVersion = 10.0.40219.1
 
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo.SimpleSample", "SimpleSample\Demo.SimpleSample.csproj", "{399A75D2-6EEB-45D8-AE16-71636114B49F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo.SimpleSample", "Demo.SimpleSample.csproj", "{399A75D2-6EEB-45D8-AE16-71636114B49F}"
 EndProject
 
 Global
