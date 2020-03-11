@@ -6,6 +6,14 @@
 	<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
   </PropertyGroup>
   <ItemGroup>
- 
+    <Reference Include="ICSharpCode.WpfDesign">
+      <HintPath>..\packages\ICSharpCode.WpfDesigner.8.0.175\lib\net45\ICSharpCode.WpfDesign.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.WpfDesign.Designer">
+      <HintPath>..\packages\ICSharpCode.WpfDesigner.8.0.175\lib\net45\ICSharpCode.WpfDesign.Designer.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.WpfDesign.XamlDom">
+      <HintPath>..\packages\ICSharpCode.WpfDesigner.8.0.175\lib\net45\ICSharpCode.WpfDesign.XamlDom.dll</HintPath>
+    </Reference>
   </ItemGroup>
 </Project>
